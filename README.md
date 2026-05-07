@@ -19,3 +19,5 @@ O objetivo é analisar a base disponibilizada e desenvolver um diagnóstico
 aprofundado da carteira de clientes, com foco na identificação dos principais 
 fatores que influenciam o risco de crédito e na avaliação da qualidade das 
 informações disponíveis.
+
+Abrir o arquivo notebook: "analise.ipnyb"
