@@ -21,4 +21,4 @@ fatores que influenciam o risco de crédito e na avaliação da qualidade das
 informações disponíveis.
 
 
-<a href="linkedin.com/in/allanpmateus">Confira a análise</a>
+<a href="https://github.com/allanpatrickm/analise_dados_credito/blob/main/analise.ipynb">Confira a análise</a>
